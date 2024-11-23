@@ -1,6 +1,4 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
