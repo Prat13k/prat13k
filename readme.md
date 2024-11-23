@@ -22,20 +22,14 @@
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-
-# Folder to save images
 import os
-output_folder = "portfolio_graphs"
-os.makedirs(output_folder, exist_ok=True)
 
-# 1. Skill Proficiency Radar Chart
 def radar_chart():
     categories = ['Python', 'Machine Learning', 'Deep Learning', 'NLP', 'Data Visualization', 'SQL', 'HTML/CSS']
     values = [9, 8, 7.5, 7, 8.5, 7, 6]
     angles = np.linspace(0, 2 * np.pi, len(categories), endpoint=False).tolist()
     values += values[:1]  # Complete the circle
     angles += angles[:1]
-    
     fig, ax = plt.subplots(figsize=(6, 6), subplot_kw=dict(polar=True))
     ax.fill(angles, values, color='orange', alpha=0.25)
     ax.plot(angles, values, color='orange', linewidth=2)
@@ -46,12 +40,10 @@ def radar_chart():
     plt.title("Skill Proficiency Radar Chart", fontsize=16, color='orange')
     plt.savefig(f"{output_folder}/radar_chart.png")
 
-# 2. Projects Timeline (Gantt Chart)
 def gantt_chart():
     projects = ['AI Assistant', 'Stock Predictor', 'Portfolio Dashboard', 'CV System']
     start = [1, 2, 5, 7]
-    duration = [1, 2, 2, 3]
-    
+    duration = [1, 2, 2, 3]    
     fig, ax = plt.subplots(figsize=(8, 4))
     ax.barh(projects, duration, left=start, color='skyblue', edgecolor='black')
     ax.set_title("Projects Timeline", fontsize=16, color='orange')
@@ -59,18 +51,15 @@ def gantt_chart():
     ax.set_ylabel("Projects")
     plt.savefig(f"{output_folder}/gantt_chart.png")
 
-# 3. Language Contributions Pie Chart
 def pie_chart():
     languages = ['Python', 'JavaScript', 'SQL', 'HTML/CSS', 'Other']
     contributions = [50, 20, 15, 10, 5]
-    
     fig, ax = plt.subplots(figsize=(6, 6))
     ax.pie(contributions, labels=languages, autopct='%1.1f%%', startangle=140,
            colors=['#FFD700', '#6495ED', '#FF7F50', '#87CEEB', '#E6E6FA'])
     plt.title("Language Contributions", fontsize=16, color='orange')
     plt.savefig(f"{output_folder}/pie_chart.png")
 
-# 4. GitHub Contributions Heatmap
 def heatmap():
     data = np.random.randint(0, 10, size=(7, 52))  # 7 days, 52 weeks
     fig, ax = plt.subplots(figsize=(12, 6))
@@ -80,13 +69,11 @@ def heatmap():
     ax.set_ylabel("Days")
     plt.savefig(f"{output_folder}/heatmap.png")
 
-# 5. Tech Stack Usage Over Time (Line Chart)
 def line_chart():
     time = ['2020', '2021', '2022', '2023', '2024']
     python = [50, 60, 70, 85, 90]
     ml = [30, 50, 65, 80, 85]
     sql = [20, 30, 40, 50, 60]
-    
     fig, ax = plt.subplots(figsize=(8, 6))
     ax.plot(time, python, label="Python", color='orange', marker='o')
     ax.plot(time, ml, label="Machine Learning", color='blue', marker='o')
@@ -97,11 +84,9 @@ def line_chart():
     ax.legend()
     plt.savefig(f"{output_folder}/line_chart.png")
 
-# 6. GitHub Stats Bar Chart
 def bar_chart():
     categories = ['Commits', 'Repos', 'Languages']
-    stats = [1200, 50, 12]
-    
+    stats = [1200, 50, 12]    
     fig, ax = plt.subplots(figsize=(6, 6))
     ax.bar(categories, stats, color=['#FFA07A', '#20B2AA', '#9370DB'], edgecolor='black')
     ax.set_title("GitHub Stats", fontsize=16, color='orange')
