@@ -1,5 +1,3 @@
-<p align = "center">
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
@@ -21,5 +19,9 @@
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-</p>
-
+![Radar Chart](portfolio_graphs/radar_chart.png)
+![Gantt Chart](portfolio_graphs/gantt_chart.png)
+![Pie Chart](portfolio_graphs/pie_chart.png)
+![Heatmap](portfolio_graphs/heatmap.png)
+![Line Chart](portfolio_graphs/line_chart.png)
+![Bar Chart](portfolio_graphs/bar_chart.png)
