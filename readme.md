@@ -1,3 +1,4 @@
+<p align = justify>
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
@@ -18,5 +19,5 @@
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
+</p>
 
