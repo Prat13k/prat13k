@@ -9,4 +9,5 @@
 <p align = "justify">Gone are the days of wasting time on tedious chores. Automation becomes your ally, and productivity feels effortless. Let my software take care of the boring stuff, so you can focus on the things that inspire you.</p>
 
 # <p align = "center">Tech</p>
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=yellow&style=flat-square)
 
