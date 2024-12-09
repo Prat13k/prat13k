@@ -10,6 +10,6 @@
 
 # <p align = "center">Tech</p>
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=yellow&style=flat-square)
-![Python](https://img.shields.io/endpoint?url=https://example.com/badge.json&logo=python)
+
 
 
