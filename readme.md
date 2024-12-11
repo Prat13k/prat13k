@@ -6,7 +6,5 @@
 
 <p align = "justify">My mission is to turn complexity into simplicity. Whether you're overwhelmed by administrative burdens or just looking for ways to streamline your workflow, I am here to make your life easier. Each solution we offer is intuitive, efficient, and tailored to fit your unique needs.</p>
 
-<p align = "justify">Gone are the days of wasting time on tedious chores. Automation becomes your ally, and productivity feels effortless. Let my software take care of the boring stuff, so you can focus on the things that inspire you.</p>
-
 
 
