@@ -6,7 +6,7 @@
 
 <p align = "justify">My mission is to turn complexity into simplicity. Whether you're overwhelmed by administrative burdens or just looking for ways to streamline your workflow, I am here to make your life easier. Each solution we offer is intuitive, efficient, and tailored to fit your unique needs.</p>
 
-# <p align = "center"> Tech </p>
+#### <p align = "center"> Tech </p>
 
 
 
