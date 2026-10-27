@@ -6,7 +6,6 @@
 
 <table width="100%" style="border: none;">
   <tr>
-    <!-- LEFT COLUMN -->
     <td width="50%" valign="top">
       
       <blockquote>
@@ -26,7 +25,6 @@
 
     </td>
     
-    <!-- RIGHT COLUMN -->
     <td width="50%" valign="top">
       
       <blockquote>
