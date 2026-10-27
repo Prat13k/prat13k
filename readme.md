@@ -30,10 +30,6 @@ Hello, I am **Pratik** 🧑‍💻. I am a Data Scientist and Systems Engineer f
 <img src="https://skillicons.dev/icons?i=py,r,rust,git,github,linux,bash,vscode&theme=dark" alt="Tech stack" />
 
 ```diff
-+ [+] Python            + [+] R / Statistics
-+ [+] Rust              + [+] Data Science
-+ [+] Machine Learning  + [+] Automation
-```
 
     </td>
     <td width="50%" valign="top">
