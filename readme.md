@@ -30,10 +30,6 @@ Hello, I am **Pratik** 🧑‍💻. I am a Data Scientist and Systems Engineer f
 <img src="https://skillicons.dev/icons?i=py,r,rust,git,github,linux,bash,vscode&theme=dark" alt="Tech stack" />
 
 ```diff
-
-    </td>
-    <td width="50%" valign="top">
-
 ### `>_ SYSTEM_CONFIG`
 
 ```json
