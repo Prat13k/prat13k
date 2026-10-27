@@ -7,35 +7,58 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      
+      <!-- TERMINAL BOX -->
       <blockquote>
-        <strong><span style="color: #FF9933;">>_ THE_TERMINAL</span></strong><br><br>
-        Hello, I am <strong>Pratik</strong> 🧑‍💻🙏. I'm a curious mind, always poking and prodding at the digital world. I enjoy playing with data, twisting and turning it until it reveals its secrets. With Python and R as my tools, I'm always ready to tackle a new problem.
+        <h3><code style="color: #FF9933; font-family: monospace; font-size: 1.1rem; background: transparent;">>_ THE_TERMINAL</code></h3>
+        <p align="justify">Hello, I am <strong>Pratik</strong> 🧑‍💻. I am a Data Scientist and Systems Engineer focused on extracting actionable insights from complex datasets. Leveraging Python and R, I build robust, data-driven solutions to tackle modern computational challenges. I am driven by a passion for continuous learning and efficient problem-solving.</p>
       </blockquote>
+      
+      <!-- TECH STACK BOX (Redesigned) -->
       <blockquote>
-        <strong><span style="color: #FF9933;">>_ SELECT_TECH_STACK</span></strong><br><br>
-        <code>[X] Python / R</code><br>
-        <code>[X] Data Science & ML</code><br>
-        <code>[X] Rust / Systems</code><br>
-        <code>[X] Automation Scripts</code>
+        <h3><code style="color: #FF9933; font-family: monospace; font-size: 1.1rem; background: transparent;">>_ SELECT_TECH_STACK</code></h3>
+        <table width="100%" style="border: none;">
+          <tr>
+            <td><code style="color: #FF9933; background: transparent;">[+] Python</code></td>
+            <td><code style="color: #FF9933; background: transparent;">[+] R / Statistics</code></td>
+          </tr>
+          <tr>
+            <td><code style="color: #FF9933; background: transparent;">[+] Rust</code></td>
+            <td><code style="color: #FF9933; background: transparent;">[+] Data Science</code></td>
+          </tr>
+          <tr>
+            <td><code style="color: #FF9933; background: transparent;">[+] Machine Learning</code></td>
+            <td><code style="color: #FF9933; background: transparent;">[+] Automation</code></td>
+          </tr>
+        </table>
       </blockquote>
+
     </td>
+    
     <td width="50%" valign="top">
+      
+      <!-- SYSTEM CONFIG BOX -->
       <blockquote>
-        <strong><span style="color: #FF9933;">>_ SYSTEM_CONFIG</span></strong><br><br>
-        <code>{</code><br>
-        <code>&nbsp;&nbsp;<span style="color: #FF9933;">"Status"</span>: "Building",</code><br>
-        <code>&nbsp;&nbsp;<span style="color: #FF9933;">"Mission"</span>: "Turn complexity into simplicity",</code><br>
-        <code>&nbsp;&nbsp;<span style="color: #FF9933;">"Focus"</span>: "Automation & Data"</code><br>
-        <code>}</code>
+        <h3><code style="color: #FF9933; font-family: monospace; font-size: 1.1rem; background: transparent;">>_ SYSTEM_CONFIG</code></h3>
+        <pre style="background-color: #161b22; padding: 10px; border-radius: 5px; overflow-x: auto;">
+{
+  <span style="color: #FF9933;">"Status"</span>: "Building",
+  <span style="color: #FF9933;">"Mission"</span>: "Turn complexity into simplicity",
+  <span style="color: #FF9933;">"Focus"</span>: "Automation & Data"
+}</pre>
       </blockquote>
+
+      <!-- MY WORKS BOX -->
       <blockquote>
-        <strong><span style="color: #FF9933;">>_ MY_WORKS</span></strong><br><br>
-        I specialize in crafting software solutions designed to take the monotony out of your daily tasks. Our tools handle the boring but necessary processes, giving you more time to focus on what truly matters. From automating repetitive email responses to transforming document formats with precision, our software ensures that no detail is overlooked. Each solution is intuitive, efficient, and tailored to fit your unique needs.<br><br>
+        <h3><code style="color: #FF9933; font-family: monospace; font-size: 1.1rem; background: transparent;">>_ MY_WORKS</code></h3>
+        <p align="justify">I specialize in crafting software solutions designed to take the monotony out of your daily tasks. Our tools handle the boring but necessary processes, giving you more time to focus on what truly matters. From automating repetitive email responses to transforming document formats with precision, our software ensures that no detail is overlooked.</p>
+        <br>
         <div align="center">
           <a href="https://github.com/Prat13k"><img src="https://img.shields.io/badge/VIEW_GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF9933" alt="GitHub"></a>
           <a href="https://prat13k.github.io/project-prat13k/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=FF9933" alt="Portfolio"></a>
         </div>
       </blockquote>
+
     </td>
   </tr>
 </table>
@@ -51,5 +74,5 @@
 <br>
 
 <div align="center">
-  <strong><span style="color: #FF9933;">>_ THANKYOU_FOR_VISITING !!</span></strong>
+  <h3><code style="color: #FF9933; font-family: monospace; font-size: 1.1rem; background: transparent;">>_ THANKYOU_FOR_VISITING !!</code></h3>
 </div>
