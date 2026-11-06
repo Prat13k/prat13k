@@ -1,57 +1,68 @@
-<!-- ========================================== -->
-<!-- ANGKOR WAT GEOMETRY - SANSTONE & MOSS THEME -->
-<!-- ========================================== -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=D4A373&height=150&section=header&text=PRATIK&fontSize=70&fontColor=1A1A1A&fontAlignY=45&animation=fadeIn" alt="Header" width="100%" />
+  <br><br>
+  <h1><b>P R A T I K</b></h1>
+  <p><i>Data Science · Systems Engineering</i></p>
+  <br><br>
 </div>
 
-<div align="center">
-  <i>"The system is not just in the code, but in the silence between the structures."</i>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D4A373&center=true&vCenter=true&width=600&height=50&lines=Data+Science+%7C+Systems+Engineering;Architecting+Complexity+into+Simplicity;Python+%7C+Rust+%7C+Go+%7C+ML+%7C+Automation" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- SYMMETRICAL CORE -->
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      
-### Ⅰ. THE ARCHITECT
-Hello, I am **Pratik**. I am a Data Scientist and Systems Engineer focused on extracting actionable insights from complex datasets. Like the intricate bas-reliefs hidden within a serene temple, I build robust, layered computational structures using Python and R.
-
-I am driven by a passion for continuous learning and efficient problem-solving. 
-
-### Ⅱ. THE FOUNDATION
-<br>
-
-<img src="https://skillicons.dev/icons?i=py,r,rust,go,git,github,linux,bash,vscode&theme=dark" alt="Tech stack" />
+<hr style="border: 0.5px solid #e5e5e5; width: 40%;" />
 
 <br><br>
 
-**SYSTEM TOPOLOGY**
-```json
-{
-  "Status":  "Building",
-  "Focus":   "Automation & Data",
-  "Mission": "Turn complexity into simplicity"
-}
+<div align="center">
+  <p style="max-width: 600px; margin: 0 auto; color: #666; line-height: 1.8;">
+    Simplicity is the ultimate sophistication. <br>
+    I build high-performance systems and extract actionable intelligence from complex data. 
+    Driven by a philosophy of turning complexity into clarity.
+  </p>
+</div>
 
-</td> <td width="50%" valign="top">
-Ⅲ. THE WORK
+<br><br>
 
-I specialize in crafting software solutions designed to take the monotony out of daily tasks. My tools handle the boring but necessary processes, giving you more time to focus on what truly matters.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,rust,go,linux,bash,git&theme=light" alt="Tech Stack" />
+  </a>
+</div>
 
-From automating repetitive workflows to transforming document formats with precision, my software ensures that no detail is overlooked.
-<div align="center"> <a href="https://github.com/Prat13k"><img src="https://img.shields.io/badge/VIEW_GITHUB-1A1A1A?style=for-the-badge&logo=github&logoColor=D4A373" alt="GitHub"></a> <a href="https://prat13k.github.io/project-prat13k/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=D4A373" alt="Portfolio"></a> </div>
-Ⅳ. TELEMETRY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prat13k&show_icons=true&theme=transparent&title_color=D4A373&icon_color=D4A373&text_color=8A9A5B&hide_border=true" alt="GitHub Stats" width="100%" /> </div> </td> </tr> </table><br> <hr style="border: 1px solid #2F4F4F;"> <br><!-- THE BAS-RELIEFS (STATS) --><div align="center"> <img src="https://streak-stats.demolab.com/?user=Prat13k&theme=dark&hide_border=true&background=00000000&ring=D4A373&fire=D4A373&currStreakLabel=D4A373&sideLabels=8A9A5B&currStreakNum=8A9A5B&sideNums=8A9A5B&dates=8A9A5B" alt="Streak Stats" width="60%" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prat13k&bg_color=0D1117&color=D4A373&line=8A9A5B&point=D4A373&area=true&area_color=D4A373&hide_border=true&title_color=D4A373" alt="Activity Graph" width="100%" /> </div>
-<!-- SNAKE (NEEDS TO MATCH THEME) --><div align="center"> <img src="https://raw.githubusercontent.com/Prat13k/Prat13k/output/github-snake-dark.svg" alt="Contribution snake" width="100%" /> </div>
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=D4A373&center=true&vCenter=true&width=500&height=40&lines=%3E_+THANKYOU_FOR+VISITING;%3E_+SEE+YOU+IN+THE+NEXT+COMMIT" alt="Thank you" /> </div><img src="https://capsule-render.vercel.app/api?type=waving&color=D4A373&height=100&section=footer" width="100%" alt="Footer" /> ```
+<br><br><br>
+
+<div align="center">
+  <h3>Ⅰ. &nbsp; T H E &nbsp; W O R K</h3>
+  <br>
+  <p style="color: #666; line-height: 1.8;">
+    <b>Dedupr</b> — Blazing-fast file deduplication (Rust)<br>
+    <b>Analysis Before Wicket</b> — Cricket analytics platform (R, Python, Go)<br>
+    <b>Polymorph</b> — Data structure transformation API (Python)<br>
+  </p>
+</div>
+
+<br><br><br>
+
+<div align="center">
+  <h3>Ⅱ. &nbsp; M E T R I C S</h3>
+  <br>
+  <!-- Stats with transparent backgrounds, subtle red accents, and no borders -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Prat13k&show_icons=true&theme=transparent&title_color=B91C1C&icon_color=B91C1C&text_color=555555&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prat13k&layout=compact&theme=transparent&title_color=B91C1C&text_color=555555&hide_border=true" alt="Top Languages" />
+</div>
+
+<br><br><br>
+
+<div align="center">
+  <h3>Ⅲ. &nbsp; C O N N E C T</h3>
+  <br>
+  <p style="color: #666; font-size: 0.9em;">
+    <a href="https://prat13k.github.io/project-prat13k/" style="color: #B91C1C; text-decoration: none;"><b>Portfolio</b></a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/Prat13k" style="color: #B91C1C; text-decoration: none;"><b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+    <a href="mailto:pp8982patil@gmail.com" style="color: #B91C1C; text-decoration: none;"><b>Email</b></a>
+  </p>
+</div>
+
+<br><br><br><br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&width=200" alt="divider" />
+  <br><br>
+  <p style="color: #999; font-size: 0.8em; letter-spacing: 2px;">東 京 · 2 0 2 6</p>
+</div>
